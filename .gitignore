@@ -63,5 +63,6 @@ site/snippets
 
 # Maven binary Wrapper (we use source)
 **/.mvn/wrapper/maven-wrapper.jar
-
-!site/testsuites/testsuite-javascript/__tests__/web5/build/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
